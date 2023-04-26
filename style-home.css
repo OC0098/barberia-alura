@@ -1,0 +1,62 @@
+/*
+Código Hexadecimal -> Alfabeto de colores combinación de las
+primeras 6 letras del alfabeto con los números del 0 al 9
+Hexadecimal: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+REPRESENTACIÓN:
+_ _ _ _ _ _
+r r g g b b
+0 0 0 0 0 0 -> NEGRO
+F F F F F F -> BLANCO
+
+rgb(0,0,0);
+*/
+
+.titulo-principal {
+    padding-left: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.items {
+    font-style: italic;
+}
+
+.diferenciales {
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales {
+    width: 50%;
+}
